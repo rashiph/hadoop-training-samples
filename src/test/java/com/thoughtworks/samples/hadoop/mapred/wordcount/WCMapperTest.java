@@ -1,6 +1,5 @@
 package com.thoughtworks.samples.hadoop.mapred.wordcount;
 
-import com.thoughtworks.samples.hadoop.mapred.wordcount.WCMapper;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
